@@ -1,0 +1,27 @@
+input {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: content-box;
+}
+
+html {
+    background-color: grey;
+}
+
+h4 {
+    color: black;
+    font-family: arial;
+}
+
+a {
+    font: 11px arial;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+}
