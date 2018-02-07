@@ -5,7 +5,7 @@ input {
     box-sizing: content-box;
 }
 
-#name {
+.name {
     width: 101px;
 }
 
